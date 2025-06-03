@@ -1,5 +1,6 @@
 {
     "rules":{
-        "at-rule-no-deprecated": true
+        
+        "selector-type-case": "lower"
     }
 }
